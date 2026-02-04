@@ -7,6 +7,3 @@ function person(){
     setTimeout(()=>{//(function()
         console.log(this.age);
     },1000);
-
-    }
-new person();
