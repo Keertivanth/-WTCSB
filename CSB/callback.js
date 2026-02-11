@@ -6,7 +6,7 @@
 // function aa(){
 //     console.log("first");
 // }
-// setTimeout(aa,2000);///delay -->Asynchronous fn ,set interval
+// setTimeout(aa,2000);///delay -->Asynchronous fn ,set interval,set timeout
 
 
 ////OR 
