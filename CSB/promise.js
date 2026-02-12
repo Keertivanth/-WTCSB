@@ -1,5 +1,5 @@
 const p = new Promise((resolve, reject) => {
-  //reject("Big Block error");
+  //reject("Big Block error");          //koi bhi ek chlega
   resolve("sab theek hai");
 });
 p.then((value) => {
